@@ -3,7 +3,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
