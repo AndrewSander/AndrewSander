@@ -1,7 +1,7 @@
 ## Me chamo Andrew Sander 👋
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
 </p>
