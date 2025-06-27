@@ -11,6 +11,16 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 
 <br>
 
+## Estatísticas
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
+</div>
+
+<br>
+
+
 ## 🌟 Projetos em destaque
 
 | Projeto             | Descrição                                    | Link                                                        |
@@ -30,14 +40,6 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 
 <br>
 
-## Estatísticas
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
-</div>
-
-<br>
 
 ## Social
 
