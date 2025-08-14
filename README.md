@@ -23,10 +23,12 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 
 ## 🌟 Projetos em destaque
 
-| Projeto             | Descrição                                    | Link                                                        |
-|---------------------|----------------------------------------------|-------------------------------------------------------------|
-| Projeto Manoel MUN  | Site para a Simulação da ONU do CEMMF        | [Veja no GitHub](https://github.com/AndrewSander/manoel-mun)|
-| Projeto Linktree    | Site simples de links pessoais com HTML e CSS| [Veja no GitHub](https://github.com/AndrewSander/linktree)  |
+| Projeto             | Descrição                                    | Link                                                                  |
+|---------------------|----------------------------------------------|-----------------------------------------------------------------------|
+| Projeto PipocaFlix  | Site de avaliação de filmes e séries         | [Veja no GitHub](https://github.com/AndrewSander/projeto-pipocaflix)  |
+| Projeto Manoel MUN  | Site para a Simulação da ONU do CEMMF        | [Veja no GitHub](https://github.com/AndrewSander/manoel-mun)          |
+| Projeto Linktree    | Site simples de links pessoais com HTML e CSS| [Veja no GitHub](https://github.com/AndrewSander/linktree)            |
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
 
