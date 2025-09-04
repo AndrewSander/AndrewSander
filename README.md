@@ -33,12 +33,7 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 <br>
 
 ## Linguagens e Tecnologias
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=py,flask,html,css,cpp,git,js" alt="Tech Stack"/>
 
 <br>
 
