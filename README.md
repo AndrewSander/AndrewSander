@@ -33,7 +33,7 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 <br>
 
 ## Linguagens e Tecnologias
-<img src="https://skillicons.dev/icons?i=py,flask,html,css,cpp,git,js" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,react,tailwind,nodejs,vite,cpp,py,flask,git" alt="Tech Stack"/>
 
 <br>
 
