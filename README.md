@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-![Estudante de Engenharia de Software](https://img.shields.io/badge/Estudante%20de%20Engenharia%20de%20Software-%23272727?style=for-the-badge&logoColor=white)
+![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-%23272727?style=for-the-badge&logoColor=white)
 
 Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na tecnologia um meio de transformar a minha imaginação em realidade!
 - Aspirante a desenvolvedor Full Stack;
@@ -11,12 +11,12 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 
 <br>
 
-## Estatísticas
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
-</div>
+[## Estatísticas]: #
+[## Estatísticas]: <div>
+  [## Estatísticas]: <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
+  [## Estatísticas]: &nbsp;&nbsp;&nbsp;
+  [## Estatísticas]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
+[## Estatísticas]: </div>
 
 <br>
 
