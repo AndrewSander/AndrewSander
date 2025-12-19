@@ -11,12 +11,11 @@ Desde pequeno, eu sempre gostei de explorar a minha criatividade, encontrei na t
 
 <br>
 
-[## Estatísticas]: #
-[## Estatísticas]: <div>
-  [## Estatísticas]: <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
-  [## Estatísticas]: &nbsp;&nbsp;&nbsp;
-  [## Estatísticas]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
-[## Estatísticas]: </div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewSander&show_icons=true&theme=dark&cache_seconds=10" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSander&layout=compact&theme=dark&cache_seconds=10"/>
+</div>
 
 <br>
 
